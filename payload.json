@@ -1,0 +1,15 @@
+{
+  "num_headlines": 2,
+  "num_descriptions": 2,
+  "first_term_source_config": {
+    "spreadsheet_id": "YOUR_INPUT_SHEET_ID",
+    "sheet_name": "Input",
+    "starting_row": 2,
+    "term_column": "A",
+    "limit": 5
+  },
+  "destination_config": {
+    "spreadsheet_id": "YOUR_OUTPUT_SHEET_ID",
+    "sheet_name": "Output"
+  }
+}
